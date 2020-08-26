@@ -1,6 +1,8 @@
 ### Languages
 <img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" />
-<img align="left" alt="MatLAB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matlab.svg" />
+<img align="left" alt="MatLAB" width="26px" src="https://github.com/jmahlers/jmahlers/blob/master/matlab.gif?raw=true" />
+
+
 
 ### Software
 
