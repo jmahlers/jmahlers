@@ -12,7 +12,7 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmahlers&l
     src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/matlab.png" />
 </a>
  <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/java.png" />
-<a href="">
+<a href="https://www.wolfram.com/mathematica/">
     <img align="left" alt="Mathematica" width="30px"
     src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/mathematica.png" />
 </a>
