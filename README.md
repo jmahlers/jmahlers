@@ -32,4 +32,4 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmahlers&l
 &nbsp;
 
 ---
-Physics major with minors in Computer Science and French. 2019 & 2020 Chassis System Lead for <a href="https://sae.wustl.edu/"> WashU Racing</a>. Undergraduate researcher within <a href="https://web.physics.wustl.edu/henriksen/">Henriksen Lab Group</a>.
+Physics major with minors in Computer Science and French at Washington University in St. Louis. 2019 & 2020 Chassis System Lead for <a href="https://sae.wustl.edu/"> WashU Racing</a>. Undergraduate researcher within <a href="https://web.physics.wustl.edu/henriksen/">Henriksen Lab Group</a>.
