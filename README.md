@@ -17,7 +17,8 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmahlers&l
     src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/mathematica.png" />
 </a>
 <img align="left" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/arduino.png" />
-<br />
+
+&nbsp;
 
 ## Software
 
