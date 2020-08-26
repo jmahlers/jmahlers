@@ -11,7 +11,7 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmahlers&l
 <img align="left" alt="MatLAB" width="30px"
     src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/matlab.gif" />
 </a>
- <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/344/java-coffee-cup-logo.png" />
+ <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/java.png" />
 <a href="">
     <img align="left" alt="Mathematica" width="30px"
     src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/mathematica.png" />
