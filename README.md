@@ -1,5 +1,5 @@
 [![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmahlers&layout=compact&hide=Limbo)](https://github.com/anuraghazra/github-readme-stats)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmahlers&layout=compact&hide=Limbo&cache_seconds=72000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 
