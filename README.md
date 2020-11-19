@@ -1,34 +1,35 @@
 [![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmahlers&layout=compact&hide=Limbo)](https://github.com/jmahlers/github-readme-stats)
+Langs](https://github-readme-stats-jmahlers.vercel.app/api/top-langs/?username=jmahlers&layout=compact&hide=Limbo&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 
 <a href="https://github.com/jmahlers/TelemetryApp">
     <img align="left" alt="Swift" width="30px"
-        src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/swift.png" />
+        src="swift.png" />
 </a>
 <a href="https://github.com/jmahlers/TS-Optimization-Suite-2019">
 <img align="left" alt="MatLAB" width="30px"
-    src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/matlab.png" />
+    src="matlab.png" />
 </a>
- <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/java.png" />
+ <img align="left" alt="Java" width="30px" src="java.png" />
 <a href="https://www.wolfram.com/mathematica/">
     <img align="left" alt="Mathematica" width="30px"
-    src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/mathematica.png" />
+    src="mathematica.png" />
 </a>
-<img align="left" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/arduino.png" />
 
 &nbsp;
 
 ## Software
 
 <a href="https://sae.wustl.edu/">
-<img align="left" alt="Solidworks" width="30px" src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/solidworks.png" />
+<img align="left" alt="Solidworks" width="30px" src="solidworks.png" />
 </a>
 <a href="https://github.com/jmahlers/TelemetryApp">
-<img align="left" alt="Xcode" width="30px" src="https://raw.githubusercontent.com/jmahlers/jmahlers/master/xcode.png" />
+<img align="left" alt="Xcode" width="30px" src="xcode.png" />
 </a>
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="visual-studio-code.png" />
+<img align="left" alt="Arduino" width="30px" src="arduino.png" />
+
 
 &nbsp;
 
