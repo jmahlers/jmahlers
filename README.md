@@ -4,16 +4,16 @@ Langs](https://github-readme-stats-jmahlers.vercel.app/api/top-langs/?username=j
 ## Languages
 
 <a href="https://github.com/jmahlers/TelemetryApp">
-    <img align="left" alt="Swift" width="30px"
+    <img align="left" alt="Swift" width="30"
         src="swift.png" />
 </a>
 <a href="https://github.com/jmahlers/TS-Optimization-Suite-2019">
-<img align="left" alt="MatLAB" width="30px"
+<img align="left" alt="MatLAB" width="30"
     src="matlab.png" />
 </a>
- <img align="left" alt="Java" width="30px" src="java.png" />
+ <img align="left" alt="Java" width="30" src="java.png" />
 <a href="https://www.wolfram.com/mathematica/">
-    <img align="left" alt="Mathematica" width="30px"
+    <img align="left" alt="Mathematica" width="30"
     src="mathematica.png" />
 </a>
 
@@ -22,13 +22,13 @@ Langs](https://github-readme-stats-jmahlers.vercel.app/api/top-langs/?username=j
 ## Software
 
 <a href="https://sae.wustl.edu/">
-<img align="left" alt="Solidworks" width="30px" src="solidworks.png" />
+<img align="left" alt="Solidworks" width="30" src="solidworks.png" />
 </a>
 <a href="https://github.com/jmahlers/TelemetryApp">
-<img align="left" alt="Xcode" width="30px" src="xcode.png" />
+<img align="left" alt="Xcode" width="30" src="xcode.png" />
 </a>
-<img align="left" alt="Visual Studio Code" width="30px" src="visual-studio-code.png" />
-<img align="left" alt="Arduino" width="30px" src="arduino.png" />
+<img align="left" alt="Visual Studio Code" width="30" src="visual-studio-code.png" />
+<img align="left" alt="Arduino" width="30" src="arduino.png" />
 
 
 &nbsp;
