@@ -1,5 +1,5 @@
 [![Top
-Langs](https://github-readme-stats-jmahlers.vercel.app/api/top-langs/?username=jmahlers&layout=compact&langs_count=7&cache_seconds=7200&hide=Limbo)](https://github.com/anuraghazra/github-readme-stats)
+Langs](https://github-readme-stats-jmahlers.vercel.app/api/top-langs/?username=jmahlers&layout=compact&langs_count=9&cache_seconds=2500&hide=jupyter%20notebook%2CLimbo)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 
