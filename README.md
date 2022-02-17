@@ -33,4 +33,4 @@ Langs](https://github-readme-stats-jmahlers.vercel.app/api/top-langs/?username=j
 &nbsp;
 
 ---
-Physics major with minors in Computer Science and French at Washington University in St. Louis. 2019 & 2020 Chassis System Lead for <a href="https://sae.wustl.edu/"> WashU Racing</a>. Undergraduate researcher within <a href="https://web.physics.wustl.edu/henriksen/">Henriksen Lab Group</a>.
+Currently a Ph.D. student within Ania Jayich's Lab at UCSB. Physics major with minors in Computer Science and French at Washington University in St. Louis. 2019 & 2020 Chassis System Lead for <a href="https://sae.wustl.edu/"> WashU Racing</a>. Previously an undergraduate researcher within <a href="https://web.physics.wustl.edu/henriksen/">Henriksen Lab Group</a>.
